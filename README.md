@@ -1,4 +1,6 @@
-% by Kno18
+% by    kno18
+
+
 pestaña de función = newmod (x_0, tole, n, f, d, d_2)
 	  formato largo
 	  fx = en línea (f);
